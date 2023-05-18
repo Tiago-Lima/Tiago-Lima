@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-I'm Tiago, a QA Tester curious about Backend Staff and Data Analysis.
+I'm Tiago, a QA Tester curious about Backend Development and Data Analysis.
 Feel free to send me a message on my [LinkedIn](https://www.linkedin.com/in/tiago-lsantos) profile.
 
 <!--
