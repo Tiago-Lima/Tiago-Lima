@@ -1,7 +1,7 @@
 ### Hi there 🖖
 
 I'm Tiago, a QA Tester curious about Backend Development and Data Analysis.
-Feel free to send me a message on my [LinkedIn](https://www.linkedin.com/in/tiago-lsantos) profile.
+Feel free to send me a message on my [e-mail](mailto:tiago.santoslima91@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tiago-lsantos) profile.
 
 <!--
 **Tiago-Lima/Tiago-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
